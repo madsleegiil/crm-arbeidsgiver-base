@@ -3,22 +3,22 @@
     <customValue>
         <fullName>Varierte arbeidsstillinger</fullName>
         <default>false</default>
-        <label>Varierte arbeidsstillinger</label>
+        <label>Spåk</label>
     </customValue>
     <customValue>
         <fullName>Ergonomiske tilpasninger</fullName>
         <default>false</default>
-        <label>Ergonomiske tilpasninger</label>
+        <label>Engelskspråk</label>
     </customValue>
     <customValue>
         <fullName>Unngå tunge løft</fullName>
         <default>false</default>
-        <label>Unngå tunge løft</label>
+        <label>Formell kompetanse</label>
     </customValue>
     <customValue>
         <fullName>Hørsel</fullName>
         <default>false</default>
-        <label>Hørsel</label>
+        <label>Førekort</label>
     </customValue>
     <customValue>
         <fullName>Syn</fullName>
@@ -28,7 +28,7 @@
     <customValue>
         <fullName>Andre former for fysisk tilrettelegging</fullName>
         <default>false</default>
-        <label>Andre former for fysisk tilrettelegging</label>
+        <label>IT Kompetanse</label>
     </customValue>
     <masterLabel>Fysisk tilrettelegging</masterLabel>
     <sorted>false</sorted>

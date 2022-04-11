@@ -9,8 +9,33 @@
     <trackTrending>false</trackTrending>
     <type>MultiselectPicklist</type>
     <valueSet>
+        <controllingField>InquiryCategory__c</controllingField>
         <restricted>true</restricted>
         <valueSetName>PhysicalArrangements</valueSetName>
+        <valueSettings>
+            <controllingFieldValue>Innvandring og integrering</controllingFieldValue>
+            <valueName>Varierte arbeidsstillinger</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Innvandring og integrering</controllingFieldValue>
+            <valueName>Ergonomiske tilpasninger</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Innvandring og integrering</controllingFieldValue>
+            <valueName>Unngå tunge løft</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Innvandring og integrering</controllingFieldValue>
+            <valueName>Hørsel</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Innvandring og integrering</controllingFieldValue>
+            <valueName>Syn</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Innvandring og integrering</controllingFieldValue>
+            <valueName>Andre former for fysisk tilrettelegging</valueName>
+        </valueSettings>
     </valueSet>
     <visibleLines>4</visibleLines>
 </CustomField>

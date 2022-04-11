@@ -88,6 +88,10 @@
             <default>false</default>
         </values>
         <values>
+            <fullName>Innvandring og integrering</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>Skal ansette</fullName>
             <default>false</default>
         </values>

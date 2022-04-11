@@ -26,6 +26,11 @@
                 <default>false</default>
                 <label>Forebygge sykefravær</label>
             </value>
+            <value>
+                <fullName>Innvandring og integrering</fullName>
+                <default>false</default>
+                <label>Innvandring og integrering</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>

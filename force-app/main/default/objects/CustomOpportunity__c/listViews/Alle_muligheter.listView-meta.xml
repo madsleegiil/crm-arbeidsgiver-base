@@ -7,6 +7,12 @@
     <columns>InclusionStage__c</columns>
     <columns>OWNER.ALIAS</columns>
     <columns>CREATED_DATE</columns>
+    <columns>PhysicalArrangements__c</columns>
     <filterScope>Everything</filterScope>
+    <filters>
+        <field>RECORDTYPE</field>
+        <operation>equals</operation>
+        <value>CustomOpportunity__c.Inclusion</value>
+    </filters>
     <label>Alle muligheter</label>
 </ListView>
