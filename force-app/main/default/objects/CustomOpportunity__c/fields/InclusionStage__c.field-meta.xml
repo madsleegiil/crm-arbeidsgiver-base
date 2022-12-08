@@ -57,6 +57,11 @@
                 <label>Kandidat presentert</label>
             </value>
             <value>
+                <fullName>Evaluering</fullName>
+                <default>false</default>
+                <label>Evaluering</label>
+            </value>
+            <value>
                 <fullName>Plan</fullName>
                 <default>false</default>
                 <label>Plan</label>
@@ -65,11 +70,6 @@
                 <fullName>Gjennomføring</fullName>
                 <default>false</default>
                 <label>Gjennomføring</label>
-            </value>
-            <value>
-                <fullName>Evaluering</fullName>
-                <default>false</default>
-                <label>Evaluering</label>
             </value>
             <value>
                 <fullName>TAG_IALukket</fullName>
